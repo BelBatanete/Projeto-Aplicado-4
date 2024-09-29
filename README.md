@@ -2,8 +2,9 @@ Este repositório contém o código e a documentação para o projeto de previs�
 O foco principal está na análise da geração de energia solar e eólica, buscando contribuir para o Objetivo de Desenvolvimento Sustentável (ODS) 7 da ONU, que visa garantir o acesso universal a energia limpa e acessível.
 
 Objetivos do Projeto
+
 Analisar dados históricos de geração de energia: Utilizar dados da geração de energia solar e eólica para entender padrões e sazonalidades.
-Desenvolver modelos preditivos: Criar e validar modelos como Prophet e métodos baseados em árvores (Random Forest, Gradient Boosting) para prever a produção futura de energia.
+Desenvolver modelos preditivos: Criar e validar modelos como Prophet e métodos baseados em árvore para prever a produção futura de energia.
 Apoiar a tomada de decisões: Fornecer insights para governos e empresas, auxiliando na gestão eficiente dos recursos energéticos e no planejamento de políticas públicas.
 
 Estrutura Prevista do Repositório (a ser confirmada durante o andamento do trabalho)
