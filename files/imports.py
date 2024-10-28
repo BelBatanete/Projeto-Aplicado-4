@@ -1,4 +1,4 @@
-# data science
+# estatisticas
 import math
 import random
 import pandas as pd
@@ -11,12 +11,12 @@ from statsmodels.tsa.seasonal import STL
 from statsmodels.tsa.api import ExponentialSmoothing
 from sktime.forecasting.naive import NaiveForecaster
 
-# time
+# tempo
 from pandas.tseries.offsets import DateOffset
 from datetime import datetime, timedelta 
 from astral import LocationInfo
 from astral.sun import sun
-# plotting
+# grafico
 from matplotlib import pyplot as plt
 from matplotlib import dates as mdates
 import plotly.graph_objects as go
@@ -33,17 +33,17 @@ from sklearn.model_selection import GridSearchCV, TimeSeriesSplit, RFECV
 from sklearn.inspection import permutation_importance
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
-# system
+# sistema
 import os
 import warnings
 warnings.filterwarnings('ignore')
 warnings.simplefilter(action='ignore', category=FutureWarning)
-# misc
+# arquivos
 import json
 import pickle
 import re
 
-# custom
+# customizada
 from helper_functions import Evaluation
 
 
