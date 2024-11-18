@@ -1,0 +1,9 @@
+Região,Modelo,Erro (MAE)
+Grécia,ARIMA,0.12
+Grécia,Prophet,0.115
+Grécia,Random Forest,0.095
+Grécia,XGBoost,0.091
+Brasil,ARIMA,0.13
+Brasil,Prophet,0.118
+Brasil,Random Forest,0.1
+Brasil,XGBoost,0.092

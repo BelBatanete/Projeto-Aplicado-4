@@ -1,0 +1,5 @@
+Modelo,Energia Solar (MAE),Energia Eólica (MAE)
+ARIMA,0.125,0.098
+Prophet,0.113,0.105
+Random Forest,0.092,0.115
+XGBoost,0.089,0.108
