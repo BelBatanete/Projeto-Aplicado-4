@@ -7,11 +7,10 @@ Analisar dados históricos de geração de energia: Utilizar dados da geração 
 Desenvolver modelos preditivos: Criar e validar modelos como Prophet e métodos baseados em árvore para prever a produção futura de energia.
 Apoiar a tomada de decisões: Fornecer insights para governos e empresas, auxiliando na gestão eficiente dos recursos energéticos e no planejamento de políticas públicas.
 
-Estrutura Prevista do Repositório (a ser confirmada durante o andamento do trabalho)
-/data: Conjunto de dados utilizados para a análise e modelagem.
-/notebooks: Jupyter notebooks contendo a análise exploratória e a implementação dos modelos.
-/src: Código-fonte com funções auxiliares e scripts de modelagem.
-/docs: Documentação do projeto, incluindo detalhes da metodologia e resultados
+Estrutura Prevista do Repositório 
+Conjunto de dados utilizados para a análise e modelagem.
+Jupyter notebooks contendo a análise exploratória e a implementação dos modelos.
+Documentação do projeto, incluindo detalhes da metodologia e resultados
 
 Metodologia Prevista 
 O projeto segue uma abordagem estruturada dividida em várias etapas:
